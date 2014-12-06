@@ -1,0 +1,12 @@
+{
+  "name": "flow-sdk",
+  "version": "0.0.0",
+  "main": "dist/flow-sdk.min.js",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test"
+  ],
+  "dependencies": {}
+}
